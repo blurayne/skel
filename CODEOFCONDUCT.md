@@ -1,8 +1,8 @@
 # Contributor Covenant Code of Conduct
 
-## Our Standpoint *(not part of Contributor Covenant)*
+## A Preamble And A Standpoint 
 
-> A Code of Conduct is shall NOT be weaponized for shameless self-radicalisation!
+> **A Code of Conduct is shall NOT be weaponized for shameless self-radicalization!**
 
 We believe that each person has the right to live his life as he chooses as long
 as he respects the equal rights of others. Every participant should be part in defending
@@ -15,17 +15,17 @@ the rights of others – it should be allowed. Force should be reserved for proh
 or punishing those who themselves use force such as criminals, parts of government and
 many corporations (non-interventionism).
 
-Governments and corporations should not use their powers to censor speech, conscript
+Governments, organizations and corporations should not use their powers to censor speech, conscript
 the young, prohibit voluntary exchanges, steal or “redistribute” property, or
 interfere in the lives of individuals who are otherwise minding their own business.
 
 We believe that that code should be applied consistently, even to the actions of
-governments and corporations. Rule by law should be restricted to protecting people
+governments, organizations, corporations. Rule by law should be restricted to protecting people
 from violations of their rights and not enforcing cultural narratives.
 
 We encourage you to take on responsibility for your actions against yourself and towards
 others – and not relying on some kind of nanny. Yet we try to keep voluntary
-participants in this project free from harrassment to do their contribution and
+participants in this project free from harassment to do their contribution and
 free and accepted in our community. We reserve ourselves the right to keep you off
 the lawn and god damn it we do shoot if we don't don't comply with our standards.
 
@@ -50,6 +50,8 @@ distinctiveness we are not nice either.
 Be respectful and mind the feelings of others when crude vibrations are on the rise!
 
 Linear causality and scapegoats should be rendered a thing of the past!
+
+*NOTE: This preamble is not part of the Contributor Covenant Code of Conduct*
 
 And now to the [Contributor Covenant][https://www.contributor-covenant.org]:
 
